@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "QoiToBmp": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\..\\..\\Examples\\kodim23.qoi"
+    }
+  }
+}
